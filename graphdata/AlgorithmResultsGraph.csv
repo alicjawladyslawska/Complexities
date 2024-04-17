@@ -1,0 +1,12 @@
+List Size, Merge Sort Runtime, Selection Sort Runtime
+10,110330,45149
+25,106385,43992
+35,76205,87875
+50,31085,140571
+100,83150,631220
+250,125622,1220585
+500,265235,1890210
+1000,469120,2198650
+10000,2659841,66807764
+
+# Comment added by 220019540 - This data was directly copied from AlgorithmResults.csv and kept here.
